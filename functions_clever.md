@@ -92,7 +92,7 @@ set_effect(effect='fade', r=0, g=0, b=255) # Градиент с голубым 
 
 Этот параметр вы должны добавить в той директории, где же вы и открывали и aruco.launch, только файл, где нужно будет это добавить, называется main_camera.launch
 
-img...
+img... https://imgur.com/a/wabYaIs
 
 `5. Optical Flow`
 
